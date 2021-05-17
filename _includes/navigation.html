@@ -1,13 +1,9 @@
 <nav>
     <!--repository name-->
     <span>
-        {{site.github.owner_name}} / <span class="emphasis-highlight">{{site.github.repository_name}}</span>
+        {{site.github.owner_name}} / <a class="emphasis-highlight" href="{{site.github.repository_url}}">{{site.github.repository_name}}</a>
     </span> |
-    <!--link to repository-->
-    <span>
-        <a href="{{site.github.repository_url}}">github repo</a>
-    </span> <br>
-    <!--navagation items-->
+    <!--navigation items-->
     <span>
         {% for item in site.data.navigation %}
         <a href="{{ item.link }}" {% if page.url contains item.name %}class="emphasis-highlight" ;"{% endif %}>{{

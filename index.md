@@ -13,6 +13,8 @@ here is some text, i guess.
 [twitter](https://twitter.com){:class="ext twitter"}
 [some other place](https://example.com){:class="ext other"}
 
+[here's a link to the project readme](/README)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 `inline code` or something like that
@@ -42,5 +44,5 @@ they were just quoted, what a shame
 
 additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense additional nonsense 
 
-![Blue Tit in spring, Botanical Garden Berlin.jpg](https://upload.wikimedia.org/wikipedia/commons/2/26/Blue_Tit_in_spring%2C_Botanical_Garden_Berlin.jpg)  
+![Blue Tit in spring, Botanical Garden Berlin.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Blue_Tit_in_spring%2C_Botanical_Garden_Berlin.jpg/1024px-Blue_Tit_in_spring%2C_Botanical_Garden_Berlin.jpg)  
 <a href="https://commons.wikimedia.org/wiki/File:Blue_Tit_in_spring,_Botanical_Garden_Berlin.jpg">Evas-naturfotografie</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
