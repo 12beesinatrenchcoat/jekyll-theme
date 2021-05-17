@@ -1,6 +1,6 @@
 - name: index
-  link: /index.html
+  link: index.html
 - name: README
-  link: /README.html
+  link: README.html
 - name: docs
-  link: /docs.html
+  link: docs.html
